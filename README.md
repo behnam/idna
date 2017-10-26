@@ -1,5 +1,6 @@
 # Unicode IDNA Compatibility Processing Data
 
-This repository will contain data files for UTS #46: Unicode IDNA Compatibility Processing.
+This repository contains data files for [Unicode® Technical Standard #46:
+Unicode IDNA Compatibility Processing](https://unicode.org/reports/tr46/).
 
-Mirror of data files from <https://www.unicode.org/Public/idna/>.
+A git mirror of <https://www.unicode.org/Public/idna/>.
