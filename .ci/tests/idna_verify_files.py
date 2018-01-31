@@ -30,6 +30,11 @@ FILE_CONTAINS = {
         # Footer
         "# Total code points:",
     ],
+    "IdnaTest.txt": [
+        # Header
+        "IdnaTest",
+        "www.unicode.org/reports/tr46",
+    ],
 }
 
 
